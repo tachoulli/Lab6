@@ -40,7 +40,7 @@ make
 ## Ejecutar
 
 ```bash
-make run
+./main
 ```
 
 ---
