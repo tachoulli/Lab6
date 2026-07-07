@@ -71,3 +71,9 @@ Los resultados muestran que no existen fugas de memoria ni errores de acceso.
 - Se utilizó la función `qsort()` para ordenar el arreglo mediante diferentes funciones de comparación.
 - Se automatizó la compilación mediante un Makefile.
 - La ejecución con Valgrind confirmó que el programa no presenta fugas de memoria ni errores, garantizando un manejo adecuado de los recursos.
+
+## Repositorio
+
+El código fuente del laboratorio se encuentra disponible en el siguiente repositorio de GitHub:
+
+https://github.com/tachoulli/Lab6
